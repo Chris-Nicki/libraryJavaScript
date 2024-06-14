@@ -1,3 +1,17 @@
+/* 
+Problem Statement: You are tasked with creating a JavaScript program that simulates a 
+digital library system. The program should allow users to add new books, search for 
+books by title or author, and display information about the library's collection.
+
+Task 1: Create a class for the Book object with properties for title, author, and 
+pages.
+
+Task 2: Implement a method within the Book object to display book information.
+
+
+
+*/
+
 // Creating book Object Prototype
 class Book {
     constructor(title, author, pages){
